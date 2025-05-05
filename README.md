@@ -1,5 +1,5 @@
-# hide-username-and-expand-profile
+# Hide Username And Expand Profile
 
 **Theme Summary**
 
-For more information, please see: **url to meta topic**
+This theme component hides the displayed username from user cards and user profiles to create a cleaner, less cluttered interface. It also forces the full user profile view to remain expanded, overriding the default collapsed behavior for a more detailed user experience.
