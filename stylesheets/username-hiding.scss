@@ -1,7 +1,14 @@
-.user-card .username {
+.user-main .username {
   display: none;
 }
 
-.user-main .username {
+.user-card[role="dialog"] .username {
   display: none;
+}
+
+.user-card.show .card-content,
+.user-card.no-bg .card-content,
+.group-card.show .card-content,
+.group-card.no-bg .card-content {
+  border: none;
 }
